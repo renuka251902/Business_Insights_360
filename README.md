@@ -31,6 +31,8 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 - Analyze divisional performance metrics
 - Explore Unit Economics via COGS and GM
 
+![image alt](https://github.com/renuka251902/Business_Insights_360/blob/aa226d785a1ef050ba9128d91af99aa3c548570d/Screenshot%202025-03-01%20145639.png)
+
 ### Supply Chain
 - Explore customer and product metrics like Forecast Accuracy% and Net Error
 - Analyze trends in Accuracy and Net Error for actionable insights
