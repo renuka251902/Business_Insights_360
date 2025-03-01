@@ -17,6 +17,8 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 - Track Net Sales performance over time
 - Analyze KPIs like Net Sales, GM%, and Net Profit%
 
+  https://github.com/renuka251902/Business_Insights_360/blob/18e81417b2236b0a82d905c201f3ddf46f989acc/Screenshot%202025-03-01%20114135.png
+
 ### Marketing View
 
 - Investigate customer and product performance metrics
