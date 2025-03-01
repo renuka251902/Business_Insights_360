@@ -7,7 +7,7 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 - [Sales view](#Sales-view)
 - [Supply view](#Supply-view)
 - [Executive view](#Executive-view)
-- [Skills mastered in Power BI Training](#Skills-mastered-in-PowerBI-training)
+- [Skills Mastered in Power BI Training](#Skills-Mastered-in-PowerBI-Training)
 
 ## Dashboard Overview
 ### Finance View
