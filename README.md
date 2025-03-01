@@ -37,6 +37,8 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 - Explore customer and product metrics like Forecast Accuracy% and Net Error
 - Analyze trends in Accuracy and Net Error for actionable insights
 
+![image alt](https://github.com/renuka251902/Business_Insights_360/blob/8e551b10cb95fd8a3a6b63c73e7cbf6607954819/Screenshot%202025-03-01%20114306.png)
+
 ### Executive View
 - Track market share trends
 - Analyze revenue distribution
