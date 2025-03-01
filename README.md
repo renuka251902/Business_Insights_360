@@ -8,13 +8,13 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 - Track Net Sales performance over time
 - Analyze KPIs like Net Sales, GM%, and Net Profit%
 
-  ### Marketing View
+### Marketing View
 
 - Investigate customer and product performance metrics
 - Analyze divisional performance metrics
 - Explore Unit Economics via COGS and GM
 
-  ### Sales View
+### Sales View
 - Evaluate customer and product performance metrics
 - Analyze performance by GM% and region
 - Explore unit economics like COGS and GM
@@ -39,7 +39,7 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 - Utilizing Power BI services for seamless navigation and data visualization
 
   ## Checkout my live Dashboard:
-  https://app.powerbi.com/view?r=eyJrIjoiMTRiNWQ1NTktODA5Ni00MjA5LWE2ZjYtYmE3NjFjNGY4MGIyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+   https://lnkd.in/gbVDVFJm
 
 
 
