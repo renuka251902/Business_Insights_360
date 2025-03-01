@@ -1,8 +1,13 @@
 # Business_Insights_360
 Welcome to the Business Intelligence Dashboard repository! This project features a comprehensive set of dashboards designed to provide crucial insights across various business domains including finance, sales, marketing, supply chain, and executive performance.
 
-# Table Of Contents
-
+## Table Of Contents
+- [Finance View](#Finance-view)
+- [Marketing view](#Marketing-view)
+- [Sales view](#Sales-view)
+- [Supply view](#Supply-view)
+- [Executive view](#Executive-view)
+- [Skills mastering in Power BI ](#Skills-mastering-in-PowerBI)
 
 ## Dashboard Overview
 ### Finance View
