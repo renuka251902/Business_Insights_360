@@ -24,6 +24,8 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 - Analyze performance by GM% and region
 - Explore unit economics like COGS and GM
 
+![image alt](https://github.com/renuka251902/Business_Insights_360/blob/f184e2f14b573dc7cbb29a3530b980aae686b3de/Screenshot%202025-03-01%20114153.png)
+
 ### Marketing View
 - Investigate customer and product performance metrics
 - Analyze divisional performance metrics
