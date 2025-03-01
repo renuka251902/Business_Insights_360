@@ -44,6 +44,8 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 - Analyze revenue distribution
 - Identify top customers/products by revenue
 
+![image alt](https://github.com/renuka251902/Business_Insights_360/blob/331053e6eaefa3195471f673aa85d0387a696f93/Screenshot%202025-03-01%20114320.png)
+
 ## Skills Mastered in Power BI Training
 - Efficiently loading and transforming data from various sources using Power Query
 - Thorough data cleaning and preparation using Power Query
