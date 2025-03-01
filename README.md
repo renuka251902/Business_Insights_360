@@ -3,8 +3,8 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 
 ## Table Of Contents
 - [Finance View](#Finance-view)
-- [Marketing view](#Marketing-view)
 - [Sales view](#Sales-view)
+- [Marketing view](#Marketing-view)
 - [Supply view](#Supply-view)
 - [Executive view](#Executive-view)
 - [Skills Mastered in Power BI Training](#Skills-Mastered-in-Power-BI-Training)
@@ -19,16 +19,15 @@ Welcome to the Business Intelligence Dashboard repository! This project features
 
 ![image alt](https://github.com/renuka251902/Business_Insights_360/blob/18e81417b2236b0a82d905c201f3ddf46f989acc/Screenshot%202025-03-01%20114135.png)
 
-### Marketing View
-
-- Investigate customer and product performance metrics
-- Analyze divisional performance metrics
-- Explore Unit Economics via COGS and GM
-
 ### Sales View
 - Evaluate customer and product performance metrics
 - Analyze performance by GM% and region
 - Explore unit economics like COGS and GM
+
+### Marketing View
+- Investigate customer and product performance metrics
+- Analyze divisional performance metrics
+- Explore Unit Economics via COGS and GM
 
 ### Supply Chain
 - Explore customer and product metrics like Forecast Accuracy% and Net Error
